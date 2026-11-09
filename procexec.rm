@@ -1,0 +1,8 @@
+Process Creation and Execution.
+
+Explanation:
+
+- fork() - creates a child process.
+- execlp() - replaces the child process with the ls -l command.
+- wait() - makes the parent wait until the child finishes.
+- perror() - displays an error if process creation or execution fails.
