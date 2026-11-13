@@ -1,0 +1,8 @@
+MFT and MVT Memory Management.
+
+Explanation:
+
+- MFT (Multiprogramming with a Fixed number of Tasks): Divides memory into fixed-size partitions.
+- Calculates internal fragmentation for allocated processes.
+- MVT (Multiprogramming with a Variable number of Tasks): Allocates memory according to each process's size.
+- Displays allocated processes and remaining memory.
