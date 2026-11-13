@@ -1,6 +1,7 @@
 Dining Philosophers Problem.
 
 Explanation:
+
 - Creates five philosopher threads.
 - Each fork is represented by a binary semaphore.
 - The room semaphore allows at most four philosophers to compete for forks at once.
