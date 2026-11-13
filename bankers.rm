@@ -1,6 +1,7 @@
 Deadlock Avoidance (Banker's Algorithm).
 
 Explanation:
+
 - Calculates the Need matrix using Need = Maximum − Allocation.
 - Checks whether each process can execute with the currently available resources.
 - Releases a completed process's allocated resources back to the available pool.
