@@ -1,1 +1,9 @@
+Process Synchronization Using Semaphores.
 
+Explanation:
+
+- mmap() - creates shared memory for the semaphore.
+- sem_init() - initializes a process-shared semaphore with value 1.
+- sem_wait() - locks the critical section.
+- sem_post() - releases the semaphore.
+- wait() - makes the parent wait for the child process.
