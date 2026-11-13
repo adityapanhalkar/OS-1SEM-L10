@@ -1,0 +1,8 @@
+First Fit, Best Fit and Worst Fit.
+
+Explanation:
+
+- First Fit: Allocates a process to the first suitable memory block.
+- Best Fit: Allocates a process to the smallest suitable block.
+- Worst Fit: Allocates a process to the largest suitable block.
+- Each algorithm starts with the original block sizes.
