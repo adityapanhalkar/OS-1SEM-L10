@@ -1,0 +1,8 @@
+Demand Paging Simulation.
+
+Explanation:
+
+- Simulates demand paging using the FIFO page replacement algorithm.
+- Checks whether each requested page is already present in memory.
+- If the page is absent, a page fault occurs and the page is loaded.
+- Displays each page fault and the total number of page faults.
