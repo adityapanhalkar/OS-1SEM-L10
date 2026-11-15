@@ -1,0 +1,8 @@
+FCFS Disk Scheduling.
+
+Explanation:
+
+- Uses the First Come First Serve (FCFS) disk scheduling algorithm.
+- Processes disk requests in the order they are received.
+- Calculates head movement using the absolute difference between consecutive positions.
+- Displays the seek sequence and total head movement.
