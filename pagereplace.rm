@@ -1,0 +1,8 @@
+FIFO and LRU Page Replacement
+
+Explanation:
+
+- FIFO: Replaces the page that was loaded earliest.
+- LRU: Replaces the least recently used page.
+- Displays the frame contents after each page reference.
+- Calculates and displays the total page faults for both algorithms.
