@@ -1,0 +1,8 @@
+File Allocation Strategies.
+
+Explanation:
+
+- Sequential allocation: Stores file blocks in consecutive locations.
+- Indexed allocation: Uses an index block to store data-block addresses.
+- Linked allocation: Each block points to the next block.
+- Demonstrates all three file allocation strategies through simulation.
